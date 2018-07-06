@@ -3,4 +3,5 @@ target/
 *.iml
 .DS_Store
 ci/private.yml
-
+Vagrantfile
+.vagrant
