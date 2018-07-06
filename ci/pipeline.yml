@@ -13,7 +13,7 @@ resources:
     username: {{cf-user}}
     password: {{cf-password}}
     organization: vbalaji-PAL-JUL2    #<----- REPLACE ME
-    space: sandbox         #<----- REPLACE ME
+    space: sandbox         #<--- REPLACE ME
     skip_cert_check: true
 
 
